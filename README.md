@@ -3,4 +3,6 @@
 ```{R}
 library(devtools)
 install_github('whve/ds')
+library(whve)
 ```
+
