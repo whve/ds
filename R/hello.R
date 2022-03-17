@@ -2,10 +2,10 @@
 #' @export
 #' @param x numeric variable
 
-hello <- function(x){
-  print("hello world!")
-}
 hi <- function(x){
   print("hi world!")
 }
-
+hello <- function(x){
+  print("hello world!")
+  hi(1)
+}
