@@ -1,11 +1,8 @@
 #' Creates histogram, boxplot and numeric summary
 #' @export
 #' @param x numeric variable
-
-hello <- function(x){
-  print("hello world!")
-}
-hi <- function(x){
-  print("hi world!")
+wow <- function(x) {
+  # 1 row and 2 colmns
+  print('wow')
 }
 
